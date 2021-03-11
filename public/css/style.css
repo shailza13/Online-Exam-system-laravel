@@ -1,0 +1,11 @@
+
+.signup_container
+{
+	width: 60%;
+	height: 500px;
+	border: 10px solid;
+	border-radius: 35px;
+	padding: 20px;
+	margin-left: 20%;
+	margin-top: 150px;
+}
